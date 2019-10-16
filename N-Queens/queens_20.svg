@@ -1,0 +1,2683 @@
+<svg width="900" height="900"
+  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="gTiles1">
+  <svg width="45" height="45" x="0" y="0">
+  <g id="tile1x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles2">
+<svg width="45" height="45" x="0" y="45">
+    <g id="tile1x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+<svg width="45" height="45" x="45" y="0">
+    <g id="tile2x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="45" y="45">
+  <g id="tile2x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles3">
+  <svg width="45" height="45" x="0" y="90">
+  <g id="tile1x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="45" y="90">
+    <g id="tile2x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="90" y="0">
+  <g id="tile3x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="90" y="45">
+    <g id="tile3x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="90" y="90">
+  <g id="tile3x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles4">
+<svg width="45" height="45" x="0" y="135">
+    <g id="tile1x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="45" y="135">
+  <g id="tile2x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="90" y="135">
+    <g id="tile3x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+<svg width="45" height="45" x="135" y="0">
+    <g id="tile4x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="135" y="45">
+  <g id="tile4x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="135" y="90">
+    <g id="tile4x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="135" y="135">
+  <g id="tile4x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles5">
+  <svg width="45" height="45" x="0" y="180">
+  <g id="tile1x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="45" y="180">
+    <g id="tile2x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="90" y="180">
+  <g id="tile3x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="135" y="180">
+    <g id="tile4x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="180" y="0">
+  <g id="tile5x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="180" y="45">
+    <g id="tile5x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="180" y="90">
+  <g id="tile5x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="180" y="135">
+    <g id="tile5x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="180" y="180">
+  <g id="tile5x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles6">
+<svg width="45" height="45" x="0" y="225">
+    <g id="tile1x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="45" y="225">
+  <g id="tile2x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="90" y="225">
+    <g id="tile3x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="135" y="225">
+  <g id="tile4x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="180" y="225">
+    <g id="tile5x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+<svg width="45" height="45" x="225" y="0">
+    <g id="tile6x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="225" y="45">
+  <g id="tile6x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="225" y="90">
+    <g id="tile6x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="225" y="135">
+  <g id="tile6x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="225" y="180">
+    <g id="tile6x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="225" y="225">
+  <g id="tile6x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles7">
+  <svg width="45" height="45" x="0" y="270">
+  <g id="tile1x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="45" y="270">
+    <g id="tile2x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="90" y="270">
+  <g id="tile3x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="135" y="270">
+    <g id="tile4x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="180" y="270">
+  <g id="tile5x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="225" y="270">
+    <g id="tile6x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="270" y="0">
+  <g id="tile7x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="270" y="45">
+    <g id="tile7x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="270" y="90">
+  <g id="tile7x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="270" y="135">
+    <g id="tile7x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="270" y="180">
+  <g id="tile7x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="270" y="225">
+    <g id="tile7x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="270" y="270">
+  <g id="tile7x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles8">
+<svg width="45" height="45" x="0" y="315">
+    <g id="tile1x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="45" y="315">
+  <g id="tile2x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="90" y="315">
+    <g id="tile3x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="135" y="315">
+  <g id="tile4x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="180" y="315">
+    <g id="tile5x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="225" y="315">
+  <g id="tile6x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="270" y="315">
+    <g id="tile7x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+<svg width="45" height="45" x="315" y="0">
+    <g id="tile8x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="315" y="45">
+  <g id="tile8x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="315" y="90">
+    <g id="tile8x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="315" y="135">
+  <g id="tile8x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="315" y="180">
+    <g id="tile8x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="315" y="225">
+  <g id="tile8x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="315" y="270">
+    <g id="tile8x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="315" y="315">
+  <g id="tile8x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles9">
+  <svg width="45" height="45" x="0" y="360">
+  <g id="tile1x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="45" y="360">
+    <g id="tile2x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="90" y="360">
+  <g id="tile3x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="135" y="360">
+    <g id="tile4x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="180" y="360">
+  <g id="tile5x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="225" y="360">
+    <g id="tile6x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="270" y="360">
+  <g id="tile7x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="315" y="360">
+    <g id="tile8x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="360" y="0">
+  <g id="tile9x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="360" y="45">
+    <g id="tile9x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="360" y="90">
+  <g id="tile9x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="360" y="135">
+    <g id="tile9x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="360" y="180">
+  <g id="tile9x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="360" y="225">
+    <g id="tile9x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="360" y="270">
+  <g id="tile9x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="360" y="315">
+    <g id="tile9x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="360" y="360">
+  <g id="tile9x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles10">
+<svg width="45" height="45" x="0" y="405">
+    <g id="tile1x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="45" y="405">
+  <g id="tile2x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="90" y="405">
+    <g id="tile3x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="135" y="405">
+  <g id="tile4x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="180" y="405">
+    <g id="tile5x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="225" y="405">
+  <g id="tile6x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="270" y="405">
+    <g id="tile7x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="315" y="405">
+  <g id="tile8x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="360" y="405">
+    <g id="tile9x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+<svg width="45" height="45" x="405" y="0">
+    <g id="tile10x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="405" y="45">
+  <g id="tile10x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="405" y="90">
+    <g id="tile10x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="405" y="135">
+  <g id="tile10x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="405" y="180">
+    <g id="tile10x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="405" y="225">
+  <g id="tile10x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="405" y="270">
+    <g id="tile10x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="405" y="315">
+  <g id="tile10x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="405" y="360">
+    <g id="tile10x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="405" y="405">
+  <g id="tile10x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles11">
+  <svg width="45" height="45" x="0" y="450">
+  <g id="tile1x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="45" y="450">
+    <g id="tile2x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="90" y="450">
+  <g id="tile3x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="135" y="450">
+    <g id="tile4x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="180" y="450">
+  <g id="tile5x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="225" y="450">
+    <g id="tile6x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="270" y="450">
+  <g id="tile7x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="315" y="450">
+    <g id="tile8x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="360" y="450">
+  <g id="tile9x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="405" y="450">
+    <g id="tile10x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="450" y="0">
+  <g id="tile11x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="450" y="45">
+    <g id="tile11x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="450" y="90">
+  <g id="tile11x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="450" y="135">
+    <g id="tile11x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="450" y="180">
+  <g id="tile11x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="450" y="225">
+    <g id="tile11x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="450" y="270">
+  <g id="tile11x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="450" y="315">
+    <g id="tile11x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="450" y="360">
+  <g id="tile11x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="450" y="405">
+    <g id="tile11x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="450" y="450">
+  <g id="tile11x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles12">
+<svg width="45" height="45" x="0" y="495">
+    <g id="tile1x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="45" y="495">
+  <g id="tile2x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="90" y="495">
+    <g id="tile3x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="135" y="495">
+  <g id="tile4x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="180" y="495">
+    <g id="tile5x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="225" y="495">
+  <g id="tile6x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="270" y="495">
+    <g id="tile7x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="315" y="495">
+  <g id="tile8x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="360" y="495">
+    <g id="tile9x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="405" y="495">
+  <g id="tile10x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="450" y="495">
+    <g id="tile11x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+<svg width="45" height="45" x="495" y="0">
+    <g id="tile12x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="495" y="45">
+  <g id="tile12x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="495" y="90">
+    <g id="tile12x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="495" y="135">
+  <g id="tile12x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="495" y="180">
+    <g id="tile12x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="495" y="225">
+  <g id="tile12x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="495" y="270">
+    <g id="tile12x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="495" y="315">
+  <g id="tile12x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="495" y="360">
+    <g id="tile12x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="495" y="405">
+  <g id="tile12x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="495" y="450">
+    <g id="tile12x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="495" y="495">
+  <g id="tile12x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles13">
+  <svg width="45" height="45" x="0" y="540">
+  <g id="tile1x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="45" y="540">
+    <g id="tile2x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="90" y="540">
+  <g id="tile3x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="135" y="540">
+    <g id="tile4x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="180" y="540">
+  <g id="tile5x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="225" y="540">
+    <g id="tile6x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="270" y="540">
+  <g id="tile7x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="315" y="540">
+    <g id="tile8x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="360" y="540">
+  <g id="tile9x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="405" y="540">
+    <g id="tile10x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="450" y="540">
+  <g id="tile11x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="495" y="540">
+    <g id="tile12x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="540" y="0">
+  <g id="tile13x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="540" y="45">
+    <g id="tile13x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="540" y="90">
+  <g id="tile13x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="540" y="135">
+    <g id="tile13x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="540" y="180">
+  <g id="tile13x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="540" y="225">
+    <g id="tile13x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="540" y="270">
+  <g id="tile13x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="540" y="315">
+    <g id="tile13x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="540" y="360">
+  <g id="tile13x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="540" y="405">
+    <g id="tile13x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="540" y="450">
+  <g id="tile13x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="540" y="495">
+    <g id="tile13x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="540" y="540">
+  <g id="tile13x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles14">
+<svg width="45" height="45" x="0" y="585">
+    <g id="tile1x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="45" y="585">
+  <g id="tile2x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="90" y="585">
+    <g id="tile3x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="135" y="585">
+  <g id="tile4x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="180" y="585">
+    <g id="tile5x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="225" y="585">
+  <g id="tile6x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="270" y="585">
+    <g id="tile7x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="315" y="585">
+  <g id="tile8x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="360" y="585">
+    <g id="tile9x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="405" y="585">
+  <g id="tile10x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="450" y="585">
+    <g id="tile11x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="495" y="585">
+  <g id="tile12x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="540" y="585">
+    <g id="tile13x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+<svg width="45" height="45" x="585" y="0">
+    <g id="tile14x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="585" y="45">
+  <g id="tile14x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="585" y="90">
+    <g id="tile14x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="585" y="135">
+  <g id="tile14x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="585" y="180">
+    <g id="tile14x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="585" y="225">
+  <g id="tile14x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="585" y="270">
+    <g id="tile14x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="585" y="315">
+  <g id="tile14x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="585" y="360">
+    <g id="tile14x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="585" y="405">
+  <g id="tile14x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="585" y="450">
+    <g id="tile14x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="585" y="495">
+  <g id="tile14x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="585" y="540">
+    <g id="tile14x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="585" y="585">
+  <g id="tile14x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles15">
+  <svg width="45" height="45" x="0" y="630">
+  <g id="tile1x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="45" y="630">
+    <g id="tile2x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="90" y="630">
+  <g id="tile3x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="135" y="630">
+    <g id="tile4x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="180" y="630">
+  <g id="tile5x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="225" y="630">
+    <g id="tile6x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="270" y="630">
+  <g id="tile7x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="315" y="630">
+    <g id="tile8x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="360" y="630">
+  <g id="tile9x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="405" y="630">
+    <g id="tile10x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="450" y="630">
+  <g id="tile11x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="495" y="630">
+    <g id="tile12x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="540" y="630">
+  <g id="tile13x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="585" y="630">
+    <g id="tile14x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="630" y="0">
+  <g id="tile15x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="630" y="45">
+    <g id="tile15x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="630" y="90">
+  <g id="tile15x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="630" y="135">
+    <g id="tile15x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="630" y="180">
+  <g id="tile15x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="630" y="225">
+    <g id="tile15x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="630" y="270">
+  <g id="tile15x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="630" y="315">
+    <g id="tile15x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="630" y="360">
+  <g id="tile15x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="630" y="405">
+    <g id="tile15x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="630" y="450">
+  <g id="tile15x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="630" y="495">
+    <g id="tile15x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="630" y="540">
+  <g id="tile15x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="630" y="585">
+    <g id="tile15x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="630" y="630">
+  <g id="tile15x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles16">
+<svg width="45" height="45" x="0" y="675">
+    <g id="tile1x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="45" y="675">
+  <g id="tile2x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="90" y="675">
+    <g id="tile3x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="135" y="675">
+  <g id="tile4x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="180" y="675">
+    <g id="tile5x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="225" y="675">
+  <g id="tile6x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="270" y="675">
+    <g id="tile7x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="315" y="675">
+  <g id="tile8x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="360" y="675">
+    <g id="tile9x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="405" y="675">
+  <g id="tile10x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="450" y="675">
+    <g id="tile11x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="495" y="675">
+  <g id="tile12x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="540" y="675">
+    <g id="tile13x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="585" y="675">
+  <g id="tile14x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="630" y="675">
+    <g id="tile15x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+<svg width="45" height="45" x="675" y="0">
+    <g id="tile16x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="675" y="45">
+  <g id="tile16x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="675" y="90">
+    <g id="tile16x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="675" y="135">
+  <g id="tile16x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="675" y="180">
+    <g id="tile16x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="675" y="225">
+  <g id="tile16x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="675" y="270">
+    <g id="tile16x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="675" y="315">
+  <g id="tile16x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="675" y="360">
+    <g id="tile16x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="675" y="405">
+  <g id="tile16x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="675" y="450">
+    <g id="tile16x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="675" y="495">
+  <g id="tile16x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="675" y="540">
+    <g id="tile16x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="675" y="585">
+  <g id="tile16x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="675" y="630">
+    <g id="tile16x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="675" y="675">
+  <g id="tile16x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles17">
+  <svg width="45" height="45" x="0" y="720">
+  <g id="tile1x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="45" y="720">
+    <g id="tile2x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="90" y="720">
+  <g id="tile3x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="135" y="720">
+    <g id="tile4x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="180" y="720">
+  <g id="tile5x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="225" y="720">
+    <g id="tile6x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="270" y="720">
+  <g id="tile7x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="315" y="720">
+    <g id="tile8x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="360" y="720">
+  <g id="tile9x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="405" y="720">
+    <g id="tile10x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="450" y="720">
+  <g id="tile11x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="495" y="720">
+    <g id="tile12x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="540" y="720">
+  <g id="tile13x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="585" y="720">
+    <g id="tile14x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="630" y="720">
+  <g id="tile15x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="675" y="720">
+    <g id="tile16x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="720" y="0">
+  <g id="tile17x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="720" y="45">
+    <g id="tile17x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="720" y="90">
+  <g id="tile17x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="720" y="135">
+    <g id="tile17x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="720" y="180">
+  <g id="tile17x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="720" y="225">
+    <g id="tile17x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="720" y="270">
+  <g id="tile17x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="720" y="315">
+    <g id="tile17x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="720" y="360">
+  <g id="tile17x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="720" y="405">
+    <g id="tile17x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="720" y="450">
+  <g id="tile17x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="720" y="495">
+    <g id="tile17x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="720" y="540">
+  <g id="tile17x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="720" y="585">
+    <g id="tile17x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="720" y="630">
+  <g id="tile17x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="720" y="675">
+    <g id="tile17x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="720" y="720">
+  <g id="tile17x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles18">
+<svg width="45" height="45" x="0" y="765">
+    <g id="tile1x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="45" y="765">
+  <g id="tile2x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="90" y="765">
+    <g id="tile3x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="135" y="765">
+  <g id="tile4x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="180" y="765">
+    <g id="tile5x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="225" y="765">
+  <g id="tile6x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="270" y="765">
+    <g id="tile7x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="315" y="765">
+  <g id="tile8x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="360" y="765">
+    <g id="tile9x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="405" y="765">
+  <g id="tile10x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="450" y="765">
+    <g id="tile11x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="495" y="765">
+  <g id="tile12x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="540" y="765">
+    <g id="tile13x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="585" y="765">
+  <g id="tile14x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="630" y="765">
+    <g id="tile15x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="675" y="765">
+  <g id="tile16x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="720" y="765">
+    <g id="tile17x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+<svg width="45" height="45" x="765" y="0">
+    <g id="tile18x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="765" y="45">
+  <g id="tile18x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="765" y="90">
+    <g id="tile18x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="765" y="135">
+  <g id="tile18x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="765" y="180">
+    <g id="tile18x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="765" y="225">
+  <g id="tile18x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="765" y="270">
+    <g id="tile18x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="765" y="315">
+  <g id="tile18x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="765" y="360">
+    <g id="tile18x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="765" y="405">
+  <g id="tile18x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="765" y="450">
+    <g id="tile18x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="765" y="495">
+  <g id="tile18x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="765" y="540">
+    <g id="tile18x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="765" y="585">
+  <g id="tile18x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="765" y="630">
+    <g id="tile18x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="765" y="675">
+  <g id="tile18x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="765" y="720">
+    <g id="tile18x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="765" y="765">
+  <g id="tile18x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles19">
+  <svg width="45" height="45" x="0" y="810">
+  <g id="tile1x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="45" y="810">
+    <g id="tile2x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="90" y="810">
+  <g id="tile3x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="135" y="810">
+    <g id="tile4x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="180" y="810">
+  <g id="tile5x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="225" y="810">
+    <g id="tile6x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="270" y="810">
+  <g id="tile7x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="315" y="810">
+    <g id="tile8x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="360" y="810">
+  <g id="tile9x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="405" y="810">
+    <g id="tile10x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="450" y="810">
+  <g id="tile11x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="495" y="810">
+    <g id="tile12x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="540" y="810">
+  <g id="tile13x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="585" y="810">
+    <g id="tile14x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="630" y="810">
+  <g id="tile15x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="675" y="810">
+    <g id="tile16x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="720" y="810">
+  <g id="tile17x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="765" y="810">
+    <g id="tile18x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="810" y="0">
+  <g id="tile19x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="810" y="45">
+    <g id="tile19x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="810" y="90">
+  <g id="tile19x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="810" y="135">
+    <g id="tile19x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="810" y="180">
+  <g id="tile19x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="810" y="225">
+    <g id="tile19x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="810" y="270">
+  <g id="tile19x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="810" y="315">
+    <g id="tile19x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="810" y="360">
+  <g id="tile19x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="810" y="405">
+    <g id="tile19x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="810" y="450">
+  <g id="tile19x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="810" y="495">
+    <g id="tile19x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="810" y="540">
+  <g id="tile19x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="810" y="585">
+    <g id="tile19x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="810" y="630">
+  <g id="tile19x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="810" y="675">
+    <g id="tile19x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="810" y="720">
+  <g id="tile19x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="810" y="765">
+    <g id="tile19x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="810" y="810">
+  <g id="tile19x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<g id="gTiles20">
+<svg width="45" height="45" x="0" y="855">
+    <g id="tile1x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="45" y="855">
+  <g id="tile2x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="90" y="855">
+    <g id="tile3x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="135" y="855">
+  <g id="tile4x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="180" y="855">
+    <g id="tile5x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="225" y="855">
+  <g id="tile6x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="270" y="855">
+    <g id="tile7x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="315" y="855">
+  <g id="tile8x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="360" y="855">
+    <g id="tile9x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="405" y="855">
+  <g id="tile10x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="450" y="855">
+    <g id="tile11x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="495" y="855">
+  <g id="tile12x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="540" y="855">
+    <g id="tile13x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="585" y="855">
+  <g id="tile14x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="630" y="855">
+    <g id="tile15x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="675" y="855">
+  <g id="tile16x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="720" y="855">
+    <g id="tile17x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="765" y="855">
+  <g id="tile18x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="810" y="855">
+    <g id="tile19x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+<svg width="45" height="45" x="855" y="0">
+    <g id="tile20x1" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="855" y="45">
+  <g id="tile20x2" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="855" y="90">
+    <g id="tile20x3" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="855" y="135">
+  <g id="tile20x4" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="855" y="180">
+    <g id="tile20x5" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="855" y="225">
+  <g id="tile20x6" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="855" y="270">
+    <g id="tile20x7" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="855" y="315">
+  <g id="tile20x8" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="855" y="360">
+    <g id="tile20x9" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="855" y="405">
+  <g id="tile20x10" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="855" y="450">
+    <g id="tile20x11" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="855" y="495">
+  <g id="tile20x12" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="855" y="540">
+    <g id="tile20x13" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="855" y="585">
+  <g id="tile20x14" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="855" y="630">
+    <g id="tile20x15" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="855" y="675">
+  <g id="tile20x16" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="855" y="720">
+    <g id="tile20x17" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="855" y="765">
+  <g id="tile20x18" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+<svg width="45" height="45" x="855" y="810">
+    <g id="tile20x19" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+      <rect x="0" y="0" width="45" height="45" style="fill:#d18b47; stroke:none;"  />
+    </g>
+  </svg>
+  <svg width="45" height="45" x="855" y="855">
+  <g id="tile20x20" style="opacity:1; fill:000000; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:1.5; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <rect x="0" y="0" width="45" height="45" style="fill:#ffce9e; stroke:none;"  />
+  </g>
+</svg>
+</g>
+<svg id="svgQueen1" width="45" height="45" x="0" y="0">
+<g id="queen1">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen2" width="45" height="45" x="45" y="0">
+<g id="queen2">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen3" width="45" height="45" x="90" y="0">
+<g id="queen3">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen4" width="45" height="45" x="135" y="0">
+<g id="queen4">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen5" width="45" height="45" x="180" y="0">
+<g id="queen5">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen6" width="45" height="45" x="225" y="0">
+<g id="queen6">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen7" width="45" height="45" x="270" y="0">
+<g id="queen7">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen8" width="45" height="45" x="315" y="0">
+<g id="queen8">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen9" width="45" height="45" x="360" y="0">
+<g id="queen9">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen10" width="45" height="45" x="405" y="0">
+<g id="queen10">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen11" width="45" height="45" x="450" y="0">
+<g id="queen11">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen12" width="45" height="45" x="495" y="0">
+<g id="queen12">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen13" width="45" height="45" x="540" y="0">
+<g id="queen13">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen14" width="45" height="45" x="585" y="0">
+<g id="queen14">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen15" width="45" height="45" x="630" y="0">
+<g id="queen15">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen16" width="45" height="45" x="675" y="0">
+<g id="queen16">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen17" width="45" height="45" x="720" y="0">
+<g id="queen17">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen18" width="45" height="45" x="765" y="0">
+<g id="queen18">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen19" width="45" height="45" x="810" y="0">
+<g id="queen19">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+<svg id="svgQueen20" width="45" height="45" x="855" y="0">
+<g id="queen20">
+      <g style="fill:#000000; stroke:none;">
+        <circle cx="6"    cy="12" r="2.75" />
+        <circle cx="14"   cy="9"  r="2.75" />
+        <circle cx="22.5" cy="8"  r="2.75" />
+        <circle cx="31"   cy="9"  r="2.75" />
+        <circle cx="39"   cy="12" r="2.75" />
+      </g>
+      <path
+         d="M 9,26 C 17.5,24.5 30,24.5 36,26 L 38.5,13.5 L 31,25 L 30.7,10.9 L 25.5,24.5 L 22.5,10 L 19.5,24.5 L 14.3,10.9 L 14,25 L 6.5,13.5 L 9,26 z"
+         style="stroke-linecap:butt; stroke:#000000;" />
+      <path
+         d="M 9,26 C 9,28 10.5,28 11.5,30 C 12.5,31.5 12.5,31 12,33.5 C 10.5,34.5 10.5,36 10.5,36 C 9,37.5 11,38.5 11,38.5 C 17.5,39.5 27.5,39.5 34,38.5 C 34,38.5 35.5,37.5 34,36 C 34,36 34.5,34.5 33,33.5 C 32.5,31 32.5,31.5 33.5,30 C 34.5,28 36,28 36,26 C 27.5,24.5 17.5,24.5 9,26 z"
+         style="stroke-linecap:butt;" />
+      <path
+         d="M 11,38.5 A 35,35 1 0 0 34,38.5"
+         style="fill:none; stroke:#000000; stroke-linecap:butt;" />
+      <path
+         d="M 11,29 A 35,35 1 0 1 34,29"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 12.5,31.5 L 32.5,31.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 11.5,34.5 A 35,35 1 0 0 33.5,34.5"
+         style="fill:none; stroke:#ffffff;" />
+      <path
+         d="M 10.5,37.5 A 35,35 1 0 0 34.5,37.5"
+         style="fill:none; stroke:#ffffff;" />
+       </g>
+</svg>
+</svg>

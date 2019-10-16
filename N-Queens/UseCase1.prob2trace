@@ -1,0 +1,406 @@
+{
+  "transitionList": [
+    {
+      "name": "$setup_constants",
+      "params": null,
+      "results": null,
+      "destState": {
+        "n": "10"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "$initialise_machine",
+      "params": null,
+      "results": null,
+      "destState": {
+        "queens": "∅"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "6",
+        "j": "5"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(6↦5)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "2",
+        "j": "10"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(2↦10),(6↦5)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "3",
+        "j": "6"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(2↦10),(3↦6),(6↦5)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "4",
+        "j": "9"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(2↦10),(3↦6),(4↦9),(6↦5)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "1",
+        "j": "7"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦7),(2↦10),(3↦6),(4↦9),(6↦5)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "5",
+        "j": "2"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[7,10,6,9,2,5]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "10",
+        "j": "8"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦7),(2↦10),(3↦6),(4↦9),(5↦2),(6↦5),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "7",
+        "j": "3"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦7),(2↦10),(3↦6),(4↦9),(5↦2),(6↦5),(7↦3),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "1",
+        "j": "1"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦1),(2↦10),(3↦6),(4↦9),(5↦2),(6↦5),(7↦3),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "3",
+        "j": "4"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦1),(2↦10),(3↦4),(4↦9),(5↦2),(6↦5),(7↦3),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "2",
+        "j": "7"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦1),(2↦7),(3↦4),(4↦9),(5↦2),(6↦5),(7↦3),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "4",
+        "j": "10"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦1),(2↦7),(3↦4),(4↦10),(5↦2),(6↦5),(7↦3),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "6",
+        "j": "9"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦1),(2↦7),(3↦4),(4↦10),(5↦2),(6↦9),(7↦3),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "8",
+        "j": "5"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦1),(2↦7),(3↦4),(4↦10),(5↦2),(6↦9),(7↦3),(8↦5),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "5",
+        "j": "1"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦1),(2↦7),(3↦4),(4↦10),(5↦1),(6↦9),(7↦3),(8↦5),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "5",
+        "j": "6"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦1),(2↦7),(3↦4),(4↦10),(5↦6),(6↦9),(7↦3),(8↦5),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "3",
+        "j": "2"
+      },
+      "results": {},
+      "destState": {
+        "queens": "{(1↦1),(2↦7),(3↦2),(4↦10),(5↦6),(6↦9),(7↦3),(8↦5),(10↦8)}"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "9",
+        "j": "4"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,2,10,6,9,3,5,4,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "8",
+        "j": "8"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,2,10,6,9,3,8,4,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "8",
+        "j": "2"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,2,10,6,9,3,2,4,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "8",
+        "j": "5"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,2,10,6,9,3,5,4,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "9",
+        "j": "8"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,2,10,6,9,3,5,8,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "10",
+        "j": "4"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,2,10,6,9,3,5,8,4]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "10",
+        "j": "8"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,2,10,6,9,3,5,8,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "9",
+        "j": "4"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,2,10,6,9,3,5,4,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "9",
+        "j": "2"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,2,10,6,9,3,5,2,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "3",
+        "j": "4"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,4,10,6,9,3,5,2,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "5",
+        "j": "7"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,7,4,10,7,9,3,5,2,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    },
+    {
+      "name": "TryQueen",
+      "params": {
+        "i": "2",
+        "j": "6"
+      },
+      "results": {},
+      "destState": {
+        "queens": "[1,6,4,10,7,9,3,5,2,8]"
+      },
+      "destStateNotChanged": [],
+      "preds": null
+    }
+  ]
+}{
+  "Creation Date": "15 Jun 2019 07:10:15PM GMT+2",
+  "ProB 2.0 kernel Version": "3.2.12-SNAPSHOT",
+  "ProB CLI Version": "1.9.0-nightly",
+  "Model": "QueensWithEvents"
+}

@@ -1,0 +1,16 @@
+{
+  "svg": "button.svg",
+  "items": [
+    {
+      "id": "button",
+      "attr": "fill",
+      "value": "IF button=TRUE THEN \"green\" ELSE \"red\" END"
+    }
+  ],
+  "events": [
+    {
+      "id": "button",
+      "event": "press_button"
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "svg":"queens_8.svg",
+  "items": [
+	{
+      "id": "svgQueen1",
+      "attr": "visibility",
+      "value" : "IF 1:dom(queens) THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen1",
+      "attr": "y",
+      "value" :"IF  1|->2:queens THEN \"45\" ELSIF 1|->3:queens THEN \"90\" ELSIF 1|->4:queens THEN \"135\" ELSIF 1|->5:queens THEN \"180\" ELSIF 1|->6:queens THEN \"225\" ELSIF 1|->7:queens THEN \"270\" ELSIF 1|->8:queens THEN \"315\" ELSE \"0\" END"
+    },
+
+	{
+      "id": "svgQueen1",
+      "attr": "fill",
+      "value" : "IF is_attacked(1) & 1:dom(queens) THEN \"red\" ELSE \"black\" END"
+    },
+
+	{
+      "id": "gTiles1",
+      "attr": "visibility",
+      "value" : "IF 1<=n  THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen2",
+      "attr": "visibility",
+      "value" : "IF 2:dom(queens) THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen2",
+      "attr": "y",
+      "value" :"IF  2|->2:queens THEN \"45\" ELSIF 2|->3:queens THEN \"90\" ELSIF 2|->4:queens THEN \"135\" ELSIF 2|->5:queens THEN \"180\" ELSIF 2|->6:queens THEN \"225\" ELSIF 2|->7:queens THEN \"270\" ELSIF 2|->8:queens THEN \"315\" ELSE \"0\" END"
+    },
+
+	{
+      "id": "svgQueen2",
+      "attr": "fill",
+      "value" : "IF is_attacked(2) & 2:dom(queens) THEN \"red\" ELSE \"black\" END"
+    },
+
+	{
+      "id": "gTiles2",
+      "attr": "visibility",
+      "value" : "IF 2<=n  THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen3",
+      "attr": "visibility",
+      "value" : "IF 3:dom(queens) THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen3",
+      "attr": "y",
+      "value" :"IF  3|->2:queens THEN \"45\" ELSIF 3|->3:queens THEN \"90\" ELSIF 3|->4:queens THEN \"135\" ELSIF 3|->5:queens THEN \"180\" ELSIF 3|->6:queens THEN \"225\" ELSIF 3|->7:queens THEN \"270\" ELSIF 3|->8:queens THEN \"315\" ELSE \"0\" END"
+    },
+
+	{
+      "id": "svgQueen3",
+      "attr": "fill",
+      "value" : "IF is_attacked(3) & 3:dom(queens) THEN \"red\" ELSE \"black\" END"
+    },
+
+	{
+      "id": "gTiles3",
+      "attr": "visibility",
+      "value" : "IF 3<=n  THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen4",
+      "attr": "visibility",
+      "value" : "IF 4:dom(queens) THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen4",
+      "attr": "y",
+      "value" :"IF  4|->2:queens THEN \"45\" ELSIF 4|->3:queens THEN \"90\" ELSIF 4|->4:queens THEN \"135\" ELSIF 4|->5:queens THEN \"180\" ELSIF 4|->6:queens THEN \"225\" ELSIF 4|->7:queens THEN \"270\" ELSIF 4|->8:queens THEN \"315\" ELSE \"0\" END"
+    },
+
+	{
+      "id": "svgQueen4",
+      "attr": "fill",
+      "value" : "IF is_attacked(4) & 4:dom(queens) THEN \"red\" ELSE \"black\" END"
+    },
+
+	{
+      "id": "gTiles4",
+      "attr": "visibility",
+      "value" : "IF 4<=n  THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen5",
+      "attr": "visibility",
+      "value" : "IF 5:dom(queens) THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen5",
+      "attr": "y",
+      "value" :"IF  5|->2:queens THEN \"45\" ELSIF 5|->3:queens THEN \"90\" ELSIF 5|->4:queens THEN \"135\" ELSIF 5|->5:queens THEN \"180\" ELSIF 5|->6:queens THEN \"225\" ELSIF 5|->7:queens THEN \"270\" ELSIF 5|->8:queens THEN \"315\" ELSE \"0\" END"
+    },
+
+	{
+      "id": "svgQueen5",
+      "attr": "fill",
+      "value" : "IF is_attacked(5) & 5:dom(queens) THEN \"red\" ELSE \"black\" END"
+    },
+
+	{
+      "id": "gTiles5",
+      "attr": "visibility",
+      "value" : "IF 5<=n  THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen6",
+      "attr": "visibility",
+      "value" : "IF 6:dom(queens) THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen6",
+      "attr": "y",
+      "value" :"IF  6|->2:queens THEN \"45\" ELSIF 6|->3:queens THEN \"90\" ELSIF 6|->4:queens THEN \"135\" ELSIF 6|->5:queens THEN \"180\" ELSIF 6|->6:queens THEN \"225\" ELSIF 6|->7:queens THEN \"270\" ELSIF 6|->8:queens THEN \"315\" ELSE \"0\" END"
+    },
+
+	{
+      "id": "svgQueen6",
+      "attr": "fill",
+      "value" : "IF is_attacked(6) & 6:dom(queens) THEN \"red\" ELSE \"black\" END"
+    },
+
+	{
+      "id": "gTiles6",
+      "attr": "visibility",
+      "value" : "IF 6<=n  THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen7",
+      "attr": "visibility",
+      "value" : "IF 7:dom(queens) THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen7",
+      "attr": "y",
+      "value" :"IF  7|->2:queens THEN \"45\" ELSIF 7|->3:queens THEN \"90\" ELSIF 7|->4:queens THEN \"135\" ELSIF 7|->5:queens THEN \"180\" ELSIF 7|->6:queens THEN \"225\" ELSIF 7|->7:queens THEN \"270\" ELSIF 7|->8:queens THEN \"315\" ELSE \"0\" END"
+    },
+
+	{
+      "id": "svgQueen7",
+      "attr": "fill",
+      "value" : "IF is_attacked(7) & 7:dom(queens) THEN \"red\" ELSE \"black\" END"
+    },
+
+	{
+      "id": "gTiles7",
+      "attr": "visibility",
+      "value" : "IF 7<=n  THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen8",
+      "attr": "visibility",
+      "value" : "IF 8:dom(queens) THEN \"visible\" ELSE \"hidden\" END"
+    },
+
+	{
+      "id": "svgQueen8",
+      "attr": "y",
+      "value" :"IF  8|->2:queens THEN \"45\" ELSIF 8|->3:queens THEN \"90\" ELSIF 8|->4:queens THEN \"135\" ELSIF 8|->5:queens THEN \"180\" ELSIF 8|->6:queens THEN \"225\" ELSIF 8|->7:queens THEN \"270\" ELSIF 8|->8:queens THEN \"315\" ELSE \"0\" END"
+    },
+
+	{
+      "id": "svgQueen8",
+      "attr": "fill",
+      "value" : "IF is_attacked(8) & 8:dom(queens) THEN \"red\" ELSE \"black\" END"
+    },
+
+	{
+      "id": "gTiles8",
+      "attr": "visibility",
+      "value" : "IF 8<=n  THEN \"visible\" ELSE \"hidden\" END"
+    }
+
+],
+"events": [
+	{
+      "id": "tile1x1",
+      "event": "TryQueen",
+      "predicates" : ["i=1","j=1"]
+    },
+
+	{
+      "id": "tile2x1",
+      "event": "TryQueen",
+      "predicates" : ["i=2","j=1"]
+    },
+
+	{
+      "id": "tile3x1",
+      "event": "TryQueen",
+      "predicates" : ["i=3","j=1"]
+    },
+
+	{
+      "id": "tile4x1",
+      "event": "TryQueen",
+      "predicates" : ["i=4","j=1"]
+    },
+
+	{
+      "id": "tile5x1",
+      "event": "TryQueen",
+      "predicates" : ["i=5","j=1"]
+    },
+
+	{
+      "id": "tile6x1",
+      "event": "TryQueen",
+      "predicates" : ["i=6","j=1"]
+    },
+
+	{
+      "id": "tile7x1",
+      "event": "TryQueen",
+      "predicates" : ["i=7","j=1"]
+    },
+
+	{
+      "id": "tile8x1",
+      "event": "TryQueen",
+      "predicates" : ["i=8","j=1"]
+    },
+
+	{
+      "id": "tile1x2",
+      "event": "TryQueen",
+      "predicates" : ["i=1","j=2"]
+    },
+
+	{
+      "id": "tile2x2",
+      "event": "TryQueen",
+      "predicates" : ["i=2","j=2"]
+    },
+
+	{
+      "id": "tile3x2",
+      "event": "TryQueen",
+      "predicates" : ["i=3","j=2"]
+    },
+
+	{
+      "id": "tile4x2",
+      "event": "TryQueen",
+      "predicates" : ["i=4","j=2"]
+    },
+
+	{
+      "id": "tile5x2",
+      "event": "TryQueen",
+      "predicates" : ["i=5","j=2"]
+    },
+
+	{
+      "id": "tile6x2",
+      "event": "TryQueen",
+      "predicates" : ["i=6","j=2"]
+    },
+
+	{
+      "id": "tile7x2",
+      "event": "TryQueen",
+      "predicates" : ["i=7","j=2"]
+    },
+
+	{
+      "id": "tile8x2",
+      "event": "TryQueen",
+      "predicates" : ["i=8","j=2"]
+    },
+
+	{
+      "id": "tile1x3",
+      "event": "TryQueen",
+      "predicates" : ["i=1","j=3"]
+    },
+
+	{
+      "id": "tile2x3",
+      "event": "TryQueen",
+      "predicates" : ["i=2","j=3"]
+    },
+
+	{
+      "id": "tile3x3",
+      "event": "TryQueen",
+      "predicates" : ["i=3","j=3"]
+    },
+
+	{
+      "id": "tile4x3",
+      "event": "TryQueen",
+      "predicates" : ["i=4","j=3"]
+    },
+
+	{
+      "id": "tile5x3",
+      "event": "TryQueen",
+      "predicates" : ["i=5","j=3"]
+    },
+
+	{
+      "id": "tile6x3",
+      "event": "TryQueen",
+      "predicates" : ["i=6","j=3"]
+    },
+
+	{
+      "id": "tile7x3",
+      "event": "TryQueen",
+      "predicates" : ["i=7","j=3"]
+    },
+
+	{
+      "id": "tile8x3",
+      "event": "TryQueen",
+      "predicates" : ["i=8","j=3"]
+    },
+
+	{
+      "id": "tile1x4",
+      "event": "TryQueen",
+      "predicates" : ["i=1","j=4"]
+    },
+
+	{
+      "id": "tile2x4",
+      "event": "TryQueen",
+      "predicates" : ["i=2","j=4"]
+    },
+
+	{
+      "id": "tile3x4",
+      "event": "TryQueen",
+      "predicates" : ["i=3","j=4"]
+    },
+
+	{
+      "id": "tile4x4",
+      "event": "TryQueen",
+      "predicates" : ["i=4","j=4"]
+    },
+
+	{
+      "id": "tile5x4",
+      "event": "TryQueen",
+      "predicates" : ["i=5","j=4"]
+    },
+
+	{
+      "id": "tile6x4",
+      "event": "TryQueen",
+      "predicates" : ["i=6","j=4"]
+    },
+
+	{
+      "id": "tile7x4",
+      "event": "TryQueen",
+      "predicates" : ["i=7","j=4"]
+    },
+
+	{
+      "id": "tile8x4",
+      "event": "TryQueen",
+      "predicates" : ["i=8","j=4"]
+    },
+
+	{
+      "id": "tile1x5",
+      "event": "TryQueen",
+      "predicates" : ["i=1","j=5"]
+    },
+
+	{
+      "id": "tile2x5",
+      "event": "TryQueen",
+      "predicates" : ["i=2","j=5"]
+    },
+
+	{
+      "id": "tile3x5",
+      "event": "TryQueen",
+      "predicates" : ["i=3","j=5"]
+    },
+
+	{
+      "id": "tile4x5",
+      "event": "TryQueen",
+      "predicates" : ["i=4","j=5"]
+    },
+
+	{
+      "id": "tile5x5",
+      "event": "TryQueen",
+      "predicates" : ["i=5","j=5"]
+    },
+
+	{
+      "id": "tile6x5",
+      "event": "TryQueen",
+      "predicates" : ["i=6","j=5"]
+    },
+
+	{
+      "id": "tile7x5",
+      "event": "TryQueen",
+      "predicates" : ["i=7","j=5"]
+    },
+
+	{
+      "id": "tile8x5",
+      "event": "TryQueen",
+      "predicates" : ["i=8","j=5"]
+    },
+
+	{
+      "id": "tile1x6",
+      "event": "TryQueen",
+      "predicates" : ["i=1","j=6"]
+    },
+
+	{
+      "id": "tile2x6",
+      "event": "TryQueen",
+      "predicates" : ["i=2","j=6"]
+    },
+
+	{
+      "id": "tile3x6",
+      "event": "TryQueen",
+      "predicates" : ["i=3","j=6"]
+    },
+
+	{
+      "id": "tile4x6",
+      "event": "TryQueen",
+      "predicates" : ["i=4","j=6"]
+    },
+
+	{
+      "id": "tile5x6",
+      "event": "TryQueen",
+      "predicates" : ["i=5","j=6"]
+    },
+
+	{
+      "id": "tile6x6",
+      "event": "TryQueen",
+      "predicates" : ["i=6","j=6"]
+    },
+
+	{
+      "id": "tile7x6",
+      "event": "TryQueen",
+      "predicates" : ["i=7","j=6"]
+    },
+
+	{
+      "id": "tile8x6",
+      "event": "TryQueen",
+      "predicates" : ["i=8","j=6"]
+    },
+
+	{
+      "id": "tile1x7",
+      "event": "TryQueen",
+      "predicates" : ["i=1","j=7"]
+    },
+
+	{
+      "id": "tile2x7",
+      "event": "TryQueen",
+      "predicates" : ["i=2","j=7"]
+    },
+
+	{
+      "id": "tile3x7",
+      "event": "TryQueen",
+      "predicates" : ["i=3","j=7"]
+    },
+
+	{
+      "id": "tile4x7",
+      "event": "TryQueen",
+      "predicates" : ["i=4","j=7"]
+    },
+
+	{
+      "id": "tile5x7",
+      "event": "TryQueen",
+      "predicates" : ["i=5","j=7"]
+    },
+
+	{
+      "id": "tile6x7",
+      "event": "TryQueen",
+      "predicates" : ["i=6","j=7"]
+    },
+
+	{
+      "id": "tile7x7",
+      "event": "TryQueen",
+      "predicates" : ["i=7","j=7"]
+    },
+
+	{
+      "id": "tile8x7",
+      "event": "TryQueen",
+      "predicates" : ["i=8","j=7"]
+    },
+
+	{
+      "id": "tile1x8",
+      "event": "TryQueen",
+      "predicates" : ["i=1","j=8"]
+    },
+
+	{
+      "id": "tile2x8",
+      "event": "TryQueen",
+      "predicates" : ["i=2","j=8"]
+    },
+
+	{
+      "id": "tile3x8",
+      "event": "TryQueen",
+      "predicates" : ["i=3","j=8"]
+    },
+
+	{
+      "id": "tile4x8",
+      "event": "TryQueen",
+      "predicates" : ["i=4","j=8"]
+    },
+
+	{
+      "id": "tile5x8",
+      "event": "TryQueen",
+      "predicates" : ["i=5","j=8"]
+    },
+
+	{
+      "id": "tile6x8",
+      "event": "TryQueen",
+      "predicates" : ["i=6","j=8"]
+    },
+
+	{
+      "id": "tile7x8",
+      "event": "TryQueen",
+      "predicates" : ["i=7","j=8"]
+    },
+
+	{
+      "id": "tile8x8",
+      "event": "TryQueen",
+      "predicates" : ["i=8","j=8"]
+    }
+
+  ]
+}
